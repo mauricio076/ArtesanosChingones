@@ -1,0 +1,28 @@
+{
+  "name": "artesanoschingones",
+  "version": "1.0.0",
+  "description": "A landing page for really awsome artisans",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauricio076/ArtesanosChingones.git"
+  },
+  "keywords": [
+    "handmade",
+    "handcraft"
+  ],
+  "author": "Mauricio Quintana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauricio076/ArtesanosChingones/issues"
+  },
+  "homepage": "https://github.com/mauricio076/ArtesanosChingones#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
